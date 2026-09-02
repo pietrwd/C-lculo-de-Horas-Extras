@@ -1,9 +1,0 @@
-#Primeiro Cadastro
-necessidades:
-
-Tela de Login;
-Cadastro;
-
-Tela de cadastro: Nome completo, Email, Usuário p/ login, Senha para login, confirmação de senha;
-
-Unificar um ao outro, desde de que o primeiro cadastrado consiga cadastrar novos usuários para ter acesso ao site desenvolvido.
